@@ -1,0 +1,65 @@
+.btn{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: wheat;
+    font-size: medium;
+    font-weight: bolder;
+    outline: none;
+    cursor: pointer;
+    transition: width 0.5s;
+}
+.menu-icon{
+    cursor: pointer;
+    
+}
+.btn:hover{
+    color: coral;
+    width: 150px;
+}
+p{
+    padding-top: 15px;
+    text-align: center;
+}
+div.details{
+    text-align: center;
+}
+
+.info{
+    padding-top: 70px;
+    padding-left: 15px;
+    padding-right: 15px;
+    justify-content: space-between;
+}
+
+body{
+    background-color: snow;
+}
+
+.container img{
+    width: 150px;
+    height: 150px;
+    float: right;
+    padding-right: 10px;
+}
+.hacker{
+    float: left;
+    width: 150px;
+    height: 150px;
+    padding-left: 10px;
+}
+ul{
+    flex: 1;
+    text-align: right;
+}
+.container ul li{
+    display: inline-block;
+    padding: 5px;
+    margin: 15px;
+    box-sizing: border-box;
+    text-decoration: underline;
+  font-size: larger;
+  font-weight: bolder;
+}
+a:hover{
+    color: rgb(85, 166, 231);
+}
