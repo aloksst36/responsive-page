@@ -36,15 +36,15 @@ body{
 }
 
 .container img{
-    width: 500px;
-    height: 500px;
+    width: auto;
+    height: auto;
     float: right;
     padding-right: 10px;
 }
 .hacker{
     float: left;
-    width: 500px;
-    height: 500px;
+    width: auto;
+    height: auto;
     padding-left: 10px;
 }
 ul{
