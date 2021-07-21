@@ -49,7 +49,7 @@ body{
 }
 ul{
     flex: 1;
-    text-align: right;
+    text-align: center;
 }
 .container ul li{
     display: inline-block;
